@@ -7,7 +7,7 @@ A python program that accepts a set of points via csv, determines if they use at
 
 ## Quick Run
 1. git clone https://github.com/d0coat01/three-point-lines.git or download zip.
-2. python Ditto.py
+2. python three-lines.py
 3. Outputs to same directory as daniel_coats_lines_output.csv
 
 ## Configuration
